@@ -36,6 +36,8 @@ async function run() {
 			await runShellApp('node', ['./scripts/workspaces.mjs', 'build'], submodule);
 		} else if (command === "bundle-esm") {
 			await runShellApp('node', ['./scripts/workspaces.mjs', 'bundle:esm'], submodule);
+		} else if (command === "docs") {
+			await runShellApp('node', ['./scripts/workspaces.mjs', 'docs'], submodule);
 		}
 		process.stdout.write(`\n`);
 	}
