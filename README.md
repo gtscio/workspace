@@ -15,7 +15,7 @@ It should be noted the submodules will not be linked to one another, and will al
 You have update all the submodules using the following command:
 
 ```shell
-git submodule update --init --recursive
+git submodule update --recursive
 ```
 
 If you want to pull all the latest changes for the submodules use the following command:
