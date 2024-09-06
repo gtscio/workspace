@@ -31,7 +31,7 @@ async function run() {
 		if (command === "install") {
 			await runShellCmd('npm', ['install'], submodule);
 		} else if (command === "dist") {
-			await runShellCmd('npm', ['./scripts/workspaces.mjs', 'dist'], submodule);
+			await runShellApp('node', ['./scripts/workspaces.mjs', 'dist'], submodule);
 		} else if (command === "build") {
 			await runShellApp('node', ['./scripts/workspaces.mjs', 'build'], submodule);
 		} else if (command === "bundle-esm") {
