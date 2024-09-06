@@ -1,0 +1,72 @@
+[submodule "framework"]
+	path = framework
+	url = https://github.com/gtscio/framework.git
+	branch = next
+[submodule "data"]
+	path = data
+	url = https://github.com/gtscio/data.git
+	branch = next
+[submodule "api"]
+	path = api
+	url = https://github.com/gtscio/api.git
+	branch = next
+[submodule "attestation"]
+	path = attestation
+	url = https://github.com/gtscio/attestation.git
+	branch = next
+[submodule "auditable-item-graph"]
+	path = auditable-item-graph
+	url = https://github.com/gtscio/auditable-item-graph.git
+	branch = next
+[submodule "blob-storage"]
+	path = blob-storage
+	url = https://github.com/gtscio/blob-storage.git
+	branch = next
+[submodule "dlt"]
+	path = dlt
+	url = https://github.com/gtscio/dlt.git
+	branch = next
+[submodule "docs"]
+	path = docs
+	url = https://github.com/gtscio/docs.git
+	branch = next
+[submodule "entity-storage"]
+	path = entity-storage
+	url = https://github.com/gtscio/entity-storage.git
+	branch = next
+[submodule "identity"]
+	path = identity
+	url = https://github.com/gtscio/identity.git
+	branch = next
+[submodule "immutable-storage"]
+	path = immutable-storage
+	url = https://github.com/gtscio/immutable-storage.git
+	branch = next
+[submodule "logging"]
+	path = logging
+	url = https://github.com/gtscio/logging.git
+	branch = next
+[submodule "nft"]
+	path = nft
+	url = https://github.com/gtscio/nft.git
+	branch = next
+[submodule "standards"]
+	path = standards
+	url = https://github.com/gtscio/standards.git
+	branch = next
+[submodule "telemetry"]
+	path = telemetry
+	url = https://github.com/gtscio/telemetry.git
+	branch = next
+[submodule "tools"]
+	path = tools
+	url = https://github.com/gtscio/tools.git
+	branch = next
+[submodule "vault"]
+	path = vault
+	url = https://github.com/gtscio/vault.git
+	branch = next
+[submodule "workbench"]
+	path = workbench
+	url = https://github.com/gtscio/workbench.git
+	branch = next
