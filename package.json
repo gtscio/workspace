@@ -37,6 +37,7 @@
 		"identity",
 		"nft",
 		"attestation",
+		"auditable-item-graph",
 		"workbench",
 		"docs"
 	],

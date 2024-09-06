@@ -70,3 +70,7 @@
 	path = workbench
 	url = https://github.com/gtscio/workbench.git
 	branch = next
+[submodule "wallet"]
+	path = wallet
+	url = https://github.com/gtscio/wallet.git
+	branch = next
