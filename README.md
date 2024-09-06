@@ -2,14 +2,26 @@
 
 This repo contains all the other relevant repos as submodules.
 
-The submodules will not be linked to one another and will have their own independent dependencies.
+To clone the repo and all it's submodules use the following command:
+
+```shell
+git clone --recursive https://github.com/gtscio/workspace.git
+```
+
+It should be noted the submodules will not be linked to one another, and will all have their own independent dependencies.
 
 ## Submodules
 
-After you have cloned this repo you can checkout all the submodules using the following command:
+You have update all the submodules using the following command:
 
 ```shell
 git submodule update --init --recursive
+```
+
+If you want to pull all the latest changes for the submodules use the following command:
+
+```shell
+git pull --recurse-submodules
 ```
 
 ## Cross module commands
