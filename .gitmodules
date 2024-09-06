@@ -1,11 +1,3 @@
-[submodule "framework"]
-	path = framework
-	url = https://github.com/gtscio/framework.git
-	branch = next
-[submodule "data"]
-	path = data
-	url = https://github.com/gtscio/data.git
-	branch = next
 [submodule "api"]
 	path = api
 	url = https://github.com/gtscio/api.git
@@ -22,6 +14,10 @@
 	path = blob-storage
 	url = https://github.com/gtscio/blob-storage.git
 	branch = next
+[submodule "data"]
+	path = data
+	url = https://github.com/gtscio/data.git
+	branch = next
 [submodule "dlt"]
 	path = dlt
 	url = https://github.com/gtscio/dlt.git
@@ -33,6 +29,10 @@
 [submodule "entity-storage"]
 	path = entity-storage
 	url = https://github.com/gtscio/entity-storage.git
+	branch = next
+[submodule "framework"]
+	path = framework
+	url = https://github.com/gtscio/framework.git
 	branch = next
 [submodule "identity"]
 	path = identity
