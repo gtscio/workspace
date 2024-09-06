@@ -1,0 +1,44 @@
+{
+	"name": "@gtsc/workspace",
+	"version": "0.0.0",
+	"description": "Workspace",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gtscio/workbench.git"
+	},
+	"author": "martyn.janes@iota.org",
+	"license": "Apache-2.0",
+	"private": true,
+	"engines": {
+		"node": ">=20.0.0"
+	},
+	"scripts": {
+		"submodule:install": "node ./scripts/submodules.mjs install",
+		"submodule:dist": "node ./scripts/submodules.mjs dist",
+		"submodule:build": "node ./scripts/submodules.mjs build",
+		"submodule:bundle-esm": "node ./scripts/submodules.mjs bundle-esm"
+	},
+	"devDependencies": {
+	},
+	"submodules": [
+		"framework",
+		"tools",
+		"data",
+		"standards",
+		"api",
+		"telemetry",
+		"logging",
+		"blob-storage",
+		"entity-storage",
+		"vault",
+		"dlt",
+		"immutable-storage",
+		"wallet",
+		"identity",
+		"nft",
+		"attestation",
+		"workbench",
+		"docs"
+	],
+	"type": "module"
+}
