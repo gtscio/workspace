@@ -22,10 +22,6 @@
 	path = dlt
 	url = https://github.com/gtscio/dlt.git
 	branch = next
-[submodule "docs"]
-	path = docs
-	url = https://github.com/gtscio/docs.git
-	branch = next
 [submodule "entity-storage"]
 	path = entity-storage
 	url = https://github.com/gtscio/entity-storage.git
