@@ -24,6 +24,12 @@ If you want to pull all the latest changes for the submodules use the following 
 git pull --recurse-submodules
 ```
 
+To add a new module to the repository use the following command:
+
+```shell
+git submodule add https://github.com/gtscio/<name>.git
+```
+
 ## Cross module commands
 
 The following commands are available across all the modules.
