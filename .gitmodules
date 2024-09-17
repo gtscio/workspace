@@ -70,6 +70,6 @@
 	path = wallet
 	url = https://github.com/gtscio/wallet.git
 	branch = next
-[submodule "schema"]
-	path = schema
-	url = https://github.com/gtscio/schema.git
+[submodule "auditable-item-stream"]
+	path = auditable-item-stream
+	url = https://github.com/gtscio/auditable-item-stream.git
