@@ -1,10 +1,10 @@
 {
-	"name": "@gtsc/workspace",
+	"name": "@twin.org/workspace",
 	"version": "0.0.0",
 	"description": "Workspace",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/gtscio/workbench.git"
+		"url": "git+https://github.com/twinfoundation/workbench.git"
 	},
 	"author": "martyn.janes@iota.org",
 	"license": "Apache-2.0",

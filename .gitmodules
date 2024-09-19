@@ -1,75 +1,75 @@
 [submodule "api"]
 	path = api
-	url = https://github.com/gtscio/api.git
+	url = https://github.com/twinfoundation/api.git
 	branch = next
 [submodule "attestation"]
 	path = attestation
-	url = https://github.com/gtscio/attestation.git
+	url = https://github.com/twinfoundation/attestation.git
 	branch = next
 [submodule "auditable-item-graph"]
 	path = auditable-item-graph
-	url = https://github.com/gtscio/auditable-item-graph.git
+	url = https://github.com/twinfoundation/auditable-item-graph.git
 	branch = next
 [submodule "blob-storage"]
 	path = blob-storage
-	url = https://github.com/gtscio/blob-storage.git
+	url = https://github.com/twinfoundation/blob-storage.git
 	branch = next
 [submodule "data"]
 	path = data
-	url = https://github.com/gtscio/data.git
+	url = https://github.com/twinfoundation/data.git
 	branch = next
 [submodule "dlt"]
 	path = dlt
-	url = https://github.com/gtscio/dlt.git
+	url = https://github.com/twinfoundation/dlt.git
 	branch = next
 [submodule "entity-storage"]
 	path = entity-storage
-	url = https://github.com/gtscio/entity-storage.git
+	url = https://github.com/twinfoundation/entity-storage.git
 	branch = next
 [submodule "framework"]
 	path = framework
-	url = https://github.com/gtscio/framework.git
+	url = https://github.com/twinfoundation/framework.git
 	branch = next
 [submodule "identity"]
 	path = identity
-	url = https://github.com/gtscio/identity.git
+	url = https://github.com/twinfoundation/identity.git
 	branch = next
 [submodule "immutable-storage"]
 	path = immutable-storage
-	url = https://github.com/gtscio/immutable-storage.git
+	url = https://github.com/twinfoundation/immutable-storage.git
 	branch = next
 [submodule "logging"]
 	path = logging
-	url = https://github.com/gtscio/logging.git
+	url = https://github.com/twinfoundation/logging.git
 	branch = next
 [submodule "nft"]
 	path = nft
-	url = https://github.com/gtscio/nft.git
+	url = https://github.com/twinfoundation/nft.git
 	branch = next
 [submodule "standards"]
 	path = standards
-	url = https://github.com/gtscio/standards.git
+	url = https://github.com/twinfoundation/standards.git
 	branch = next
 [submodule "telemetry"]
 	path = telemetry
-	url = https://github.com/gtscio/telemetry.git
+	url = https://github.com/twinfoundation/telemetry.git
 	branch = next
 [submodule "tools"]
 	path = tools
-	url = https://github.com/gtscio/tools.git
+	url = https://github.com/twinfoundation/tools.git
 	branch = next
 [submodule "vault"]
 	path = vault
-	url = https://github.com/gtscio/vault.git
+	url = https://github.com/twinfoundation/vault.git
 	branch = next
 [submodule "workbench"]
 	path = workbench
-	url = https://github.com/gtscio/workbench.git
+	url = https://github.com/twinfoundation/workbench.git
 	branch = next
 [submodule "wallet"]
 	path = wallet
-	url = https://github.com/gtscio/wallet.git
+	url = https://github.com/twinfoundation/wallet.git
 	branch = next
 [submodule "auditable-item-stream"]
 	path = auditable-item-stream
-	url = https://github.com/gtscio/auditable-item-stream.git
+	url = https://github.com/twinfoundation/auditable-item-stream.git

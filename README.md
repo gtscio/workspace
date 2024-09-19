@@ -1,11 +1,11 @@
-# GTSC Workspace
+# TWIN Workspace
 
 This repo contains all the other relevant repos as submodules.
 
 To clone the repo and all it's submodules use the following command:
 
 ```shell
-git clone --recursive https://github.com/gtscio/workspace.git
+git clone --recursive https://github.com/twinfoundation/workspace.git
 ```
 
 It should be noted the submodules will not be linked to one another, and will all have their own independent dependencies.
@@ -27,7 +27,7 @@ git pull --recurse-submodules
 To add a new module to the repository use the following command:
 
 ```shell
-git submodule add https://github.com/gtscio/<name>.git
+git submodule add https://github.com/twinfoundation/<name>.git
 ```
 
 ## Cross module commands
