@@ -73,3 +73,6 @@
 [submodule "auditable-item-stream"]
 	path = auditable-item-stream
 	url = https://github.com/twinfoundation/auditable-item-stream.git
+[submodule "ui"]
+	path = ui
+	url = https://github.com/twinfoundation/ui.git
