@@ -42,8 +42,7 @@
 		"auditable-item-graph",
 		"auditable-item-stream",
 		"ui",
-		"workbench",
-		"docs"
+		"workbench"
 	],
 	"type": "module"
 }
