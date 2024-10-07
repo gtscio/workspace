@@ -76,3 +76,6 @@
 [submodule "ui"]
 	path = ui
 	url = https://github.com/twinfoundation/ui.git
+[submodule "immutable-proof"]
+	path = immutable-proof
+	url = https://github.com/twinfoundation/immutable-proof.git

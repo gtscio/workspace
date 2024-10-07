@@ -38,7 +38,10 @@
 		"identity",
 		"nft",
 		"attestation",
+		"immutable-proof",
 		"auditable-item-graph",
+		"auditable-item-stream",
+		"ui",
 		"workbench",
 		"docs"
 	],
