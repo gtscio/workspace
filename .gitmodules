@@ -79,3 +79,6 @@
 [submodule "immutable-proof"]
 	path = immutable-proof
 	url = https://github.com/twinfoundation/immutable-proof.git
+[submodule "background-task"]
+	path = background-task
+	url = https://github.com/twinfoundation/background-task.git
