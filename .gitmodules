@@ -82,3 +82,9 @@
 [submodule "background-task"]
 	path = background-task
 	url = https://github.com/twinfoundation/background-task.git
+[submodule "engine"]
+	path = engine
+	url = https://github.com/twinfoundation/engine.git
+[submodule "event-bus"]
+	path = event-bus
+	url = https://github.com/twinfoundation/event-bus.git

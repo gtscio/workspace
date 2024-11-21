@@ -1,3 +1,4 @@
 {
-	"git.detectSubmodulesLimit": 1000
+	"git.detectSubmodulesLimit": 1000,
+	"vitest.disableWorkspaceWarning": true
 }
