@@ -88,3 +88,6 @@
 [submodule "event-bus"]
 	path = event-bus
 	url = https://github.com/twinfoundation/event-bus.git
+[submodule "messaging"]
+	path = messaging
+	url = https://github.com/twinfoundation/messaging.git
